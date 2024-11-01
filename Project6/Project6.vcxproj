@@ -22,7 +22,7 @@
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{8be71ca9-866b-4f78-b06e-abfd82240614}</ProjectGuid>
-    <RootNamespace>Project6</RootNamespace>
+    <RootNamespace>Project06</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
     <ProjectName>Project06</ProjectName>
   </PropertyGroup>
